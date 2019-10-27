@@ -1,0 +1,84 @@
+body
+{background-color: #b3bec4;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+main {
+    background-color: #c0e7d4;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    ;
+    padding-left: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: #b3bec4;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+
+
+#profilna {
+    border-radius: 50%;
+    float: right;
+    margin-right: 30px;
+    box-shadow: #b3bec4 2px 5px;
+    max-width: 20%;
+    height: auto;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    border: rosybrown;
+    border-style: ridge;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: #b3bec4;
+    border: 1px;
+    border-style: outset;
+    border-width: 2px;
+    padding-left: 5px;
+
+
+
+
+}
+
+p {
+    padding-left: 10px;
+}
+
+button {
+    margin-left: 20px;
+    border: 5px;
+    border-color: burlywood;
+    border-style: outset;
+    color: black;
+}
+
+
+footer {
+    background-color: #b3bec4;
+}
+
+
+header {
+    background-color: #b3bec4;
+}
