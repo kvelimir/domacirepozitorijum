@@ -1,0 +1,10 @@
+var a;
+a=12;
+var b;
+b= 8;
+console.log(a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a/b);
+console.log(a%b);
+console.log(a**b);
