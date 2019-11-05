@@ -2,6 +2,20 @@
 
 function maksimum(a, b, c) {
 
-    return Math.max(a, b, c);
+    if (a > b && a > c) {
+
+        return a;
+
+    }
+    if (b > a && b > c) {
+
+        return b;
+    }
+    if (c > a && c > b); {
+
+        return c;
+    }
+
+
 }
-console.log(maksimum(12, 24, 7));
+console.log(maksimum(11, 2, 77));
